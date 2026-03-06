@@ -17,6 +17,9 @@ The goal of this project is to demonstrate how GenRuntime can act as a **runtime
 
 **GenRuntime** is a runtime abstraction layer for LLM inference.
 
+- GitHub: [https://github.com/tejaspawar12/GenRuntime](https://github.com/tejaspawar12/GenRuntime)
+- PyPI: [https://pypi.org/project/genruntime/](https://pypi.org/project/genruntime/)
+
 Instead of calling an LLM provider directly, applications interact with GenRuntime, which handles:
 
 - Provider integration
@@ -158,8 +161,8 @@ project-root
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/genruntime-demo.git
-cd genruntime-demo
+git clone https://github.com/tejaspawar12/GenRuntime-Demo-Reliable-Structured-LLM-Extraction.git
+cd GenRuntime-Demo-Reliable-Structured-LLM-Extraction
 ```
 
 **Create a virtual environment:**
